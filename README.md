@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Yo soy Anderso Rondon Laya</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-- 🔭 Estoy trabajando en [Sitio Web](www.fidelz.com.ve)
+- 🔭 Estoy trabajando en [Sitio Web](fidelz.com.ve)
 
 - 🌱 Estoy Aprendiendo **Laravel, Python,Sql**
 
