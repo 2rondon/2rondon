@@ -3,7 +3,7 @@
 
 - 🔭 Estoy trabajando en [Sitio Web](www.fidelz.com.ve)
 
-- 🌱 Estoy Aprendiendo **Laravel, Phython,Sql**
+- 🌱 Estoy Aprendiendo **Laravel, Python,Sql**
 
 - 💬 Preguntame **Sitios Web y desarrollo de sistemas**
 
