@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 - 🔭 Estoy trabajando en www.fidelz.com.ve
+                          www.codedevsolution.com.ve
 
 - 🌱 Estoy Aprendiendo **Laravel, Python,Sql**
 
