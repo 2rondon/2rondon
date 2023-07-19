@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Yo soy Anderso Rondon Laya</h1>
+<h1 align="center">Hola 👋, Soy Anderso Rondon Laya</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 - 🔭 Estoy trabajando en www.fidelz.com.ve ;
