@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, Soy Anderso Rondon Laya</h1>
+<h1 align="center">Hola 👋, Soy Anderson Rondon Laya</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
-
+<h3 align="center">Un apacionado Desarrollador Front-End Venezuela</h3>
 - 🔭 Estoy trabajando en www.fidelz.com.ve ;
                           www.codedevsolution.com.ve
 
