@@ -4,7 +4,7 @@
 - 🔭 Estoy trabajando en www.fidelz.com.ve ;
                           www.codedevsolution.com.ve
 
-- 🌱 Estoy Aprendiendo **Laravel, Python,Sql**
+- 🌱 Estoy Aprendiendo **Laravel, Python, Django**
 
 - 💬 Preguntame **Sitios Web y desarrollo de sistemas**
 
